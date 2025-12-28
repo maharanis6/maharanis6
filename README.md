@@ -1,6 +1,6 @@
-# Halo semua! 
+# Hello everyone! 
 
-Perkenalkan nama saya **Maharani Sabila**.<br>
+Let me introduce myself **I am Maharani Sabila**.<br>
 
-Saya seorang **Mahasiswa** di Universitas Dian Nuswantoro.<br>
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/maharani-sabila)ku ya.
+I am a recent graduate of Dian Nuswantoro University, majoring in Information Systems.<br>
+If you're interested in getting to know, please follow me on my account [Linkedin](www.linkedin.com/in/maharani-sabila)
